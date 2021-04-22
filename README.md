@@ -22,4 +22,6 @@ DEV dependencies
 "vite": "^2.2.1"
 ```
 
-Set configuration files > `npx tailwindcss init -p`
+**Set configuration files** > `npx tailwindcss init -p`
+
+**Run dev environment** > `npm run dev`
