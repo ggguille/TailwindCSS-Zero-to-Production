@@ -11,3 +11,11 @@ Using _base_, _component_ and _utilities_
 
 **Build command** >
  `npx tailwindcss-cli build css/tailwind.css -o build/tailwind.css`
+
+DEV dependencies
+```
+"autoprefixer": "^10.2.5",
+"postcss": "^8.2.12",
+"tailwindcss": "^2.1.1",
+"vite": "^2.2.1"
+```

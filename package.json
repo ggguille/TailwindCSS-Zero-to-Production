@@ -1,0 +1,26 @@
+{
+  "name": "TailwindCSS-Zero-to-Production",
+  "version": "1.0.0",
+  "description": "First contact with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggguille/TailwindCSS-Zero-to-Production.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggguille/TailwindCSS-Zero-to-Production/issues"
+  },
+  "homepage": "https://github.com/ggguille/TailwindCSS-Zero-to-Production#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.12",
+    "tailwindcss": "^2.1.1",
+    "vite": "^2.2.1"
+  }
+}
