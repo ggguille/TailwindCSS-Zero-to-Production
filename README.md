@@ -25,3 +25,7 @@ DEV dependencies
 **Set configuration files** > `npx tailwindcss init -p`
 
 **Run dev environment** > `npm run dev`
+
+### 02 - The Utility-First Workflow Tailwind CSS
+
+Build a custom design only with utility classes
