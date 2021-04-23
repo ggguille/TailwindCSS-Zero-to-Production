@@ -29,3 +29,7 @@ DEV dependencies
 ### 02 - The Utility-First Workflow Tailwind CSS
 
 Build a custom design only with utility classes
+
+### 03 - Responsive Design
+
+Make custom design responsive
