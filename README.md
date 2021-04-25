@@ -37,3 +37,7 @@ Make custom design responsive
 ### 04 - Hover, Focus and other States
 
 Use classes to define hover, focus and active states of the button
+
+### 05 - Composing Utilities with @apply
+
+Define composable classes applying utilitiy classes
