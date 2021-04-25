@@ -45,3 +45,9 @@ Define composable classes applying utilitiy classes
 ### 06 - Extracting Reusable Components
 
 Build reusable components with React styling with tailwind utilities
+
+### 07 - Customizing Your Design System
+
+Custom design properties
+
+**Set full configuration file** > `npx tailwindcss init tailwind-full.config.js --full`
