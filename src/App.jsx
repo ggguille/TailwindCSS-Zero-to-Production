@@ -16,7 +16,7 @@ export default function App() {
               src="/img/beach-work.jpeg"
               alt="Woman workcationing on the beach"
             />
-            <h1 className="mt-6 text-2xl font-bold text-gray-900 sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl">
+            <h1 className="mt-6 text-2xl font-headline tracking-tight font-semibold text-gray-900 sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl">
               You can work from anywhere.
               <br className="hidden lg:inline" /> <span className="text-brand">Take advantage of it.</span>
             </h1>
@@ -37,7 +37,7 @@ export default function App() {
         <div className="hidden relative lg:block 2xl:col-span-3">
           <img
             className="absolute inset-0 w-full h-full object-cover object-center"
-            src="/img/beach-work.jpg"
+            src="/img/beach-work.jpeg"
             alt="Woman workcationing on the beach"
           />
         </div>
