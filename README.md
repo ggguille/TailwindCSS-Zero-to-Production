@@ -33,3 +33,7 @@ Build a custom design only with utility classes
 ### 03 - Responsive Design
 
 Make custom design responsive
+
+### 04 - Hover, Focus and other States
+
+Use classes to define hover, focus and active states of the button
