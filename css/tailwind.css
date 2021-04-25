@@ -6,4 +6,4 @@
     focus:outline-none focus:ring focus:ring-offset-2 focus:ring-indigo-500 focus:ring-opacity-50
     active:bg-indigo-600;
 }
-@tailwind utilities;
+@tailwind utilities; /* keep at the end to allow override styles */
