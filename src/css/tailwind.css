@@ -8,9 +8,9 @@
         focus:outline-none focus:ring focus:ring-offset-2;
     }
     .btn-primary {
-        @apply shadow-lg bg-indigo-500 text-white
-        hover:bg-indigo-400 hover:-translate-y-0.5 transform transition
-        focus:ring-indigo-500 focus:ring-opacity-50
-        active:bg-indigo-600;
+        @apply shadow-lg bg-brand text-white
+        hover:bg-brand-light hover:-translate-y-0.5 transform transition
+        focus:ring-brand focus:ring-opacity-50
+        active:bg-brand-dark;
     }
 }
