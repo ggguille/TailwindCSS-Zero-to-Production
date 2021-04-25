@@ -51,3 +51,9 @@ Build reusable components with React styling with tailwind utilities
 Custom design properties
 
 **Set full configuration file** > `npx tailwindcss init tailwind-full.config.js --full`
+
+### 08 - Optimizing for Production
+
+Prepare css building for production
+
+**Build project** > `npm run build`
